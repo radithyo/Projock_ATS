@@ -1,0 +1,98 @@
+{
+   "checksum": "043ae1e911c7d4281a5a905bf4cfc770",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13341728790844803",
+            "date_last_used": "13424855116660029",
+            "guid": "160459e4-1c07-4a9a-a535-c0132dd6747a",
+            "id": "7",
+            "name": "Kelas",
+            "type": "url",
+            "url": "https://classroom.google.com/"
+         }, {
+            "date_added": "13370057230570890",
+            "date_last_used": "0",
+            "guid": "6491f4eb-5cc1-4772-9c57-8a15d523b3c4",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pengisi bosan",
+            "type": "url",
+            "url": "edge://surf/"
+         }, {
+            "date_added": "13374813940954375",
+            "date_last_used": "13423714861469085",
+            "guid": "60e2c216-32ec-4b56-b92c-f2a808033b32",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Beranda | Microsoft 365",
+            "type": "url",
+            "url": "https://www.microsoft365.com/?auth=1"
+         }, {
+            "date_added": "13392713534683023",
+            "date_last_used": "13433790861093751",
+            "guid": "80da4e11-581a-47b1-a432-f890eb97bb10",
+            "id": "10",
+            "name": "Nonton Anime ID - Nonton Streaming Anime Sub Indo TV Terbaru",
+            "type": "url",
+            "url": "https://s13.nontonanimeid.boats/"
+         }, {
+            "date_added": "13397975153632776",
+            "date_last_used": "13407036687616547",
+            "guid": "877c72c8-6da4-4279-b0d0-e5998804bab3",
+            "id": "11",
+            "name": "W3Schools Online Web Tutorials",
+            "type": "url",
+            "url": "https://www.w3schools.com/"
+         }, {
+            "date_added": "13416503663083871",
+            "date_last_used": "13428260944800212",
+            "guid": "957cdd2b-6b19-410e-a60d-9404e43fad7c",
+            "id": "12",
+            "name": "UI/UX - Maze Draft",
+            "type": "url",
+            "url": "https://app.maze.co/projects/500360012/mazes/500360908"
+         }, {
+            "date_added": "13429157775171763",
+            "date_last_used": "13432190271155386",
+            "guid": "4a6c3451-bff5-4fce-826d-f3e16a312bd0",
+            "id": "13",
+            "name": "flutter plat",
+            "type": "url",
+            "url": "https://pub.dev/"
+         } ],
+         "date_added": "13433872915268259",
+         "date_last_used": "0",
+         "date_modified": "13429157775171763",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13433872915268259",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13433872915268259",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

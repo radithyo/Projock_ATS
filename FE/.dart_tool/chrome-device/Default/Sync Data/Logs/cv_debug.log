@@ -1,0 +1,6 @@
+{"logTime": "0914/152403", "correlationVector":"8XxJGkaVpWts94MrgzZDBP.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-065-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt003000024"}}
+{"logTime": "0914/152403", "correlationVector":"8XxJGkaVpWts94MrgzZDBP.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=8XxJGkaVpWts94MrgzZDBP.0;server=akswtt003000024;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-065-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "0914/152516", "correlationVector":"JU0WaentmV/XKEzj88NrMx","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "0914/152517", "correlationVector":"JU0WaentmV/XKEzj88NrMx.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-065-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00300002z"}}
+{"logTime": "0914/152517", "correlationVector":"JU0WaentmV/XKEzj88NrMx.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=JU0WaentmV/XKEzj88NrMx.0;server=akswtt00300002z;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-065-apac-southeastasia;migrationStage=NotStarted}

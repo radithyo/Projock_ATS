@@ -1,0 +1,10 @@
+# Database config
+DE/src/db/index.ts
+
+# Dependencies
+node_modules/
+DE/node_modules/
+
+# Environment
+.env
+.env.*
